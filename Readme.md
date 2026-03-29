@@ -1,6 +1,6 @@
 ## About This Project
 
-This repository contains five shell scripts written as part of the Open Source Software capstone project. The chosen software is Git, the distributed version control system created by Linus Torvalds in 2005. All scripts are written for Ubuntu Linux and tested on Ubuntu 22.04 LTS.
+This repository contains five shell scripts written by me as part of the Open Source Software capstone project. I have choosen chosen software is Git, the distributed version control system created by Linus Torvalds in 2005. All scripts are written for Ubuntu Linux and tested on Ubuntu 22.04 LTS using virtual box by oracle.
 
 ---
 
@@ -29,7 +29,7 @@ This repository contains five shell scripts written as part of the Open Source S
 
 **Step 1: Clone the repository**
 ```bash
-git clone https://github.com/[your-username]/oss-audit-24BAI10294.git
+git clone https://github.com/RohitKChoudhary/Open-Source-Software---Evaluated-Course-Project
 cd oss-audit-24BAI10294
 ```
 
